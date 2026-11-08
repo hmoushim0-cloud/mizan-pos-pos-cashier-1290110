@@ -10,7 +10,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="تطبيق ميزان نقاط البيع — إنشاء وتجهيز متجر سلة لمنتجا"
+        android:label="ميزان نقاط البيع الذكية - Mizan POS"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
         <activity
